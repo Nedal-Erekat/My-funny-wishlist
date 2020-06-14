@@ -52,7 +52,15 @@ label{
     background-color: #633f3f61;
 }
 
-#newData{
-    background-color: red;
-    width: 100px
+#table h2{
+    width: max-content;
+    margin: 10px auto;
+}
+
+#newData tr td{
+    /* background-color: red; */
+    /* width: 100px;
+    height: 200px; */
+    border: 1px white solid;
+    padding: 20px
 };

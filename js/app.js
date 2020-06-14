@@ -8,7 +8,7 @@ function Wish(title, date) {
 Wish.all = [];
 
 
-var tableEl = document.getElementById('table')
+var tableEl = document.getElementById('newData')
 Wish.prototype.creatRow = function () {
     var wishRow = document.createElement('tr');
     tableEl.appendChild(wishRow);
