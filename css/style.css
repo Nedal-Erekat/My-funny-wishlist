@@ -1,0 +1,58 @@
+header{
+    background-color: #e12e5b;
+}
+header h1{
+    width: max-content;
+    margin: auto;
+    padding: 20px;
+    color: white;
+}
+
+/* main {
+    float: left;
+    margin: 30px;
+} */
+#formDiv{
+    float: left;
+    margin: 30px;
+    padding: 10px;
+    width: 30%;
+    background-color: #633f3f61;
+    
+}
+#formDiv div{
+    /* border: 2px solid black; */
+width: max-content;
+margin: 40px auto;
+}
+input{
+    display: block;
+    width: 300px;
+    height: 30px;
+}
+label{
+    margin: auto;
+    width: max-content;
+    display: block;
+    padding: 10px;
+}
+#btn{
+    width:300px ;
+    height: 50px;
+    background-color:#e12e5b ;
+    border: none;
+    margin: 40px auto;
+}
+
+#table{
+    float: left;
+    margin: 30px;
+    padding: 10px;
+    width: 50%;
+    background-color: #633f3f61;
+}
+
+#newData{
+    background-color: red;
+    width: 100px
+};
